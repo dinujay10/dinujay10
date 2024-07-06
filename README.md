@@ -1,6 +1,6 @@
 ### Hi there! I'm Dinu! 👻
 
-- 🌱 I’m currently learning VueJS and Springboot
+- 🌱 I’m currently learning Flutter
 - 🌸 Pronouns: she/her
 - ⚡ Fun fact: I'm a book addict!
 
