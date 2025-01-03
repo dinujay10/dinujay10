@@ -1,6 +1,6 @@
 ### Hi there! I'm Dinu! 👻
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning nDPI
 - 🌸 Pronouns: she/her
 - ⚡ Fun fact: I'm a book addict!
 
