@@ -9,6 +9,10 @@
 <br>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
@@ -24,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=octave" height="40" alt="octave logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo" />
   <img width="8" />
@@ -44,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
 </div>
 <br>
 
