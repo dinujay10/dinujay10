@@ -6,26 +6,51 @@
 
 
 ## Technology Stack 💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=octave" height="40" alt="octave logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+</div>
+<br>
+
 
 
 
